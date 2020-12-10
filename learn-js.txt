@@ -1,0 +1,3 @@
+Hello,
+I am learning Javascript.
+Javascript is an awesome programming language.
